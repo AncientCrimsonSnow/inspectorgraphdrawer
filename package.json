@@ -1,0 +1,17 @@
+﻿{
+  "name": "com.pharao.inspectorgraphdrawer",
+  "version": "1.0.1",
+  "displayName": "Serialized Graph Renderer for the inspector",
+  "description": "This tool helps u to show the data of graphs in the inspector",
+  "unity": "2021.3",
+  "unityRelease": "24f1",
+  "keywords": [
+    "Edior",
+    "Graph",
+    "Inspector"
+  ],
+  "author": {
+    "name": "Pharao"
+  },
+  "type": "tool"
+}
